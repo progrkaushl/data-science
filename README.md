@@ -26,7 +26,7 @@ SOL for `functions` and `exercises` with be 0 (not done), 0.5(partially done) an
 |------|--------|-----------|----------|------------|
 |0|numpy|0|0|0%|
 |1|scipy|0|0|0%|
-|2|pandas|0.5|0|25%|
+|2|pandas|1|0|50%|
 |3|matplotlib|1|0|50%|
 |4|seaborn|0|0|0%|
 |5|scikit-learn|0|0|0%|
